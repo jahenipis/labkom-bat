@@ -1,6 +1,6 @@
 # labkom-bat
 _(...nama yang lebih bagus lagi dipikiran)_
 
-Ketika terlalu banyak PC yang kamu _maintain_ dan banyak tugas yang perlu dieksekusi sekaligus...
+Ketika terlalu banyak PC yang kamu _maintain_, terlalu banyak yang perlu dieksekusi sekaligus, terlalu sering yang harus diulang...
 
-...kumpulan script-script bat untuk _maintenance_ PC-PC lab komputer sekaligus
+Kumpulan bat script untuk _maintenance_ PC lab komputer, sekaligus banyak & diulang berkali-kali.
