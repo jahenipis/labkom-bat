@@ -2,7 +2,7 @@
 
 Skrip ini akan berguna ketika icon aplikasi atau icon file yang seharusnya tampil pada desktop, taskbar, atau windows explorer muncul sebagai _broken image_. Skrip akan otomatis memperbaiki dan icon muncul normal kembali seperti seharusnya.
 
-###Cara menggunakan skrip:
+### Cara menggunakan skrip:
 
 Jalankan skrip, ikuti instruksi pada command line, restart PC untuk menyelesaikan prosesnya.
 
