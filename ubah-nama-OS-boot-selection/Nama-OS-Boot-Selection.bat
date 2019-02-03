@@ -3,4 +3,4 @@
 
 @echo off
 
-SETX PATH "%PATH%;C:\Program Files\Java\jdk1.8.0_181\bin" /M
+bcdedit /set {current} description "Multimedia & Mobile"
